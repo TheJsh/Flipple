@@ -1,0 +1,283 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "josh.k.chen@gmail.com",
+    "enableMultiJS": false,
+    "longName": "Flipple - Flip a Coin",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/09",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_9",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/08",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_8",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/07",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_7",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/06",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_6",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/05",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_5",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/04",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_4",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/03",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_3",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/02",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_2",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/01",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_1",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/00",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_0",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "characterRegex": "[HTE ]",
+                "file": "fonts/VeraMono.ttf",
+                "name": "FONT_VERA_MONO_16",
+                "targetPlatforms": [
+                    "aplite",
+                    "basalt"
+                ],
+                "type": "font"
+            },
+            {
+                "file": "images/23",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_23",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/22",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_22",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/21",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_21",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/20",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_20",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/19",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_19",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/18",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_18",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/17",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_17",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/16",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_16",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/15",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_15",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/14",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_14",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/13",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_13",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/12",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_12",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/11",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_11",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/10",
+                "memoryFormat": "1Bit",
+                "name": "SPRITE_10",
+                "storageFormat": "pbi",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_ICON",
+                "targetPlatforms": [
+                    "aplite"
+                ],
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Flipple",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "37bc00e0-568e-465f-804b-372ec305d5db",
+    "versionLabel": "2.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
